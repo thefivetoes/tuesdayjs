@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-05-12 20:50:57
 categories: jekyll update
-repoURL: "https://github.com/thefivetoes/js-beginner-01"
+
 ---
 
 Hi. [Here is the first project][repoURL]
@@ -20,3 +20,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com
+[repoURL]: https://github.com/thefivetoes/js-beginner-01
