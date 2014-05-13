@@ -4,6 +4,7 @@ email: justin@jws.io
 description: "javascript club. every tuesday."
 baseurl: "/tuesdayjs"
 url: "http://thefivetoes.com"
+username: "thefivetoes"
 
 # Build settings
 markdown: kramdown
